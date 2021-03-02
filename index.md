@@ -19,6 +19,6 @@ Para comprar libros pulsa [aquí](https://www.casadellibro.com)
 
 `printf('Hola Mundo!');`
 
-![Foto de mi perro](books.jpg)
+![Foto de libros](books.jpg)
 
 [Referencias](referencias.md)
