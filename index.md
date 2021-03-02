@@ -1,12 +1,13 @@
-# Titulo
-## Subtitulo
-Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
+# Página sobre literatura
+## Géneros de ficción
+Dentro del genero de ficcion hay varios tipos:
 
-- Elemento 1
-- Elemento 2
-- Elemento 3
+- Novela negra
+- Novela de ciencia ficción
+- Novela de suspense
 
-Este es un ejemplo de texto que da entrada a una lista numerada:
+## Novela negra
+Los mejores libros de novela Negra:
 
 1. Elemento 1
 2. Elemento 2
