@@ -1,27 +1,24 @@
 # Página sobre literatura
 ## Géneros de ficción
-Dentro del genero de ficcion hay varios tipos:
+Dentro del género de ficción hay varios tipos:
 
-- Novela negra
-- Novela de ciencia ficción
-- Novela de suspense
+- Novela **negra**
+- Novela de **ciencia ficción**
+- Novela de **suspense**
 
 ## Novela negra
 Los mejores libros de novela Negra:
 
-1. Elemento 1
-2. Elemento 2
-3. Elemento 3
+1. La dama de Zagreb - *Philip Kerr*
+2. El poder del perro - *Don Winslow*
+3. Cualquier otro día - *Dennis Lehace*
 
-Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
+Para comprar libros pulsa [aquí](https://www.casadellibro.com)
 
-[Ies San Clemente](https://www.iessanclementenet/)
+> La poesía es comunicación. Algo que sirve para hablar con los demás hombres.  — Mahatma Gandhi
 
+`printf('Hola Mundo!');`
 
-> Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
-> 
-`Esto es una línea de código`
-
-![Foto de mi perro](imagen.jpg)
+![Foto de mi perro](books.jpg)
 
 [Referencias](referencias.md)
