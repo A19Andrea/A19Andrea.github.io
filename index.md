@@ -14,10 +14,13 @@ Este es un ejemplo de texto que da entrada a una lista numerada:
 
 Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
 
-[Ies San Clemente](https://www.iessanclemente.net/)
+[Ies San Clemente](https://www.iessanclementenet/)
+
 
 > Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
 > 
 `Esto es una línea de código`
 
 ![Foto de mi perro](imagen.jpg)
+
+[Referencias](referencias.md)
